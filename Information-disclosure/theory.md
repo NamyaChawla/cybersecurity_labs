@@ -36,7 +36,7 @@ Developers forget to disable debugging option while using 3rd party technologies
 **Version control history**
 /.git, /.sun, ./hg stores history, which may backfire incase developers leave sensitive information and then remove it in next commit
 
-##Prevention
+## Prevention
 - Developers need to be aware of what information is sensitive
 - Using generic error messages
 - Dissable debuggibg features in production
